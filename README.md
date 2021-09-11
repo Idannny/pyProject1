@@ -1,4 +1,4 @@
-# Python Project
+# Python Practice 
 
 #IVAN and Lafrance and co.
 #practice projects
